@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+/* Import your CSS files here */
+@import "font-face.css";
+body,p,h1,h2,h3,h4,h5{margin: 0 auto;}
+img, div {behavior: url(style/iepngfix.htc);}
+.clearfix{clear:both;}
+body{
+	font-family: 'ColaborateThinRegular';
+}
